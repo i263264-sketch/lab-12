@@ -1,0 +1,9 @@
+Name: Nawal Ishtiaq
+
+Roll Number: 26i3264
+
+Section: E
+
+GitHub Repository: https://github.com/i263264-sketch/lab-12
+
+Live Website: https://i263264-sketch.github.io/lab-12/
