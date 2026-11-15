@@ -1,26 +1,25 @@
-# Travel Explorer
+# Travel Postcard – Paris
 
-**Name:** Nawal Ishtiaq  
-**Roll Number:** 26i3264  
-**Section:** E
+## Student Information
+- **Name:** Nawal Ishtiaq
+- **Roll Number:** 26i3264
+- **Section:** E
 
-**Theme:** Travel Postcard
+## Project Description
+Travel Postcard is a simple travel website based on Paris, France. It introduces visitors to famous attractions and provides useful travel information.
 
-A website about Paris, its famous landmarks and travel information.
+## Website Pages
+1. **Home:** Welcome page introducing Paris.
+2. **Destinations:** Information about famous attractions, including the Eiffel Tower, Louvre Museum, Arc de Triomphe and Notre-Dame Cathedral.
+3. **About:** Information about the purpose of the website.
 
-## Pages
-- Home
-- Destinations
-- About
-- Travel Tips
-
-## Technologies
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## AI Tool
-ChatGPT
+## GitHub Repository
+https://github.com/i263264-sketch/lab-12
 
 ## Live Website
-Paste your GitHub Pages link here.
+https://i263264-sketch.github.io/lab-12/
